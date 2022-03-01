@@ -14,3 +14,5 @@ Fan of interface design, human interaction with computers, and how to build soft
   * [Secret Message with Binary Numbers (Casa das Ciências, PT)](https://www.casadasciencias.org/recurso/8935), [Teaching binary code with a secret word challenge (Science in School, EN)](https://www.scienceinschool.org/article/2021/teaching-binary-code-secret-word-challenge/)
 
 - :rocket: Participated in the CanSat competition in 2017! The goal was to build a mini-satellite the size of a can. Our team reached the 3rd place in Portugal's finals.
+
+- :speech_balloon: Helped translate the documentation of a [LaTeX Thesis Template](https://github.com/ekspek/ist-thesis) to English.
