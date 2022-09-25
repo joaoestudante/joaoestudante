@@ -3,7 +3,6 @@ Fan of interface design, human interaction with computers, and how to build soft
 
 #### What I'm currently focused on:
 
-- :wrench: Developing [ion-teaching](https://github.com/joaoestudante/ion-teaching) - an educational app/game to help students practice their ionic compounds skills.
 - :clipboard: Writing my thesis. It's about using commits to migrate monolith systems to microservices! Check out the [thesis' repo](https://github.com/joaoestudante/thesis) for more information.
 
 #### Some projects I've worked on in the past:
