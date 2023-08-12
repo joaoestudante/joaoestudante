@@ -3,7 +3,8 @@ Fan of interface design, human interaction with computers, and how to build soft
 
 #### What I'm currently focused on:
 
-- :clipboard: Writing my thesis. It's about using commits to migrate monolith systems to microservices! Check out the [thesis' repo](https://github.com/joaoestudante/thesis) for more information.
+- Developing a new tool for Splatoon players to manage their gear. Will be made public once it's more mature. Follow my journey at [joaoestudante.com](https://joaoestudante.com/blog/).
+- Working at Autodesk Prodsmart, making factories more efficient.
 
 #### Some projects I've worked on in the past:
 
