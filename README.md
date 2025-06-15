@@ -2,7 +2,7 @@
 Fullstack Engineer. Fan of interface design, human interaction with computers, and how to build software. Currently at Autodesk Fusion Operations, helping make factories more efficient.
 
 #### Some projects I've worked on:
-- 🔥 Used `git-scraping` to store historical data about wildfires in Portugal. Built a dashboard live in [https://fires.joaoestudante.com](https://fires.joaoestudante.com), and the repo in [Github](https://github.com/joaoestudante/fogospt)
+- 🔥 Used `git-scraping` to store historical data about wildfires in Portugal. Built a dashboard live in [https://fires.joaoestudante.com](https://fires.joaoestudante.com), and the repo in [Github](https://github.com/joaoestudante/fogos-portugal)
 - 🏭 Built a POC web app to visualize the savings in a factory provided by specialized sensors and units. Wrote about it in [my website](https://joaoestudante.com/projects/factory-savings)
 - 🐙 Developed a tool for helping Splatoon 3 players manage their gear. Read about it also in [my website](https://joaoestudante.com/projects/splatoon-gear-db/)
 - 🗣️ Made a web app to visualize voice actors which are common across different animes. Integrates with Anilist for easy comparison with your own anime lists. More in [this post](https://joaoestudante.com/projects/japanese-voice-actors/), live at [https://seiyu.onrender.com/](https://seiyu.onrender.com/) (be patient and wait for it to initialize 🙏)
